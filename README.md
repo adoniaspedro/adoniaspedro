@@ -14,7 +14,7 @@ Intensity about AI, software development and building practical solutions. I enj
 
 🔭 &nbsp;I'm currently working on **a AI Music Application**  
 👯 &nbsp;I'm looking to collaborate on **with a team of AI or software engineers**  
-⚡ &nbsp;Fun fact: **A habit of throwing small pieces in the air and make it fall into my mouth**
+⚡ &nbsp;Fun fact: **A habit of throwing small pieces of food in the air and make it fall into my mouth**
 
 ### 🛠️ Tech Stack
 
